@@ -1,3 +1,6 @@
+After I got comfortable with react I created this todo app with, add, edit, update and delet funtionalities.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
